@@ -1,4 +1,4 @@
-P1_Robberies
+Proyecto de la comunidad de práctica de Inteligencia Artificial - Asw
 ==============================
 
 A short description of the project.
